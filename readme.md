@@ -1,0 +1,1 @@
+# Simple Blog Template - Create a website having 3 separate pages.
